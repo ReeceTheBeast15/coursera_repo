@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "My learning more about git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReeceTheBeast15/coursera_repo.git"
+  },
+  "author": "Reece McDorman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReeceTheBeast15/coursera_repo/issues"
+  },
+  "homepage": "https://github.com/ReeceTheBeast15/coursera_repo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
