@@ -20,6 +20,6 @@
   "homepage": "https://github.com/ReeceTheBeast15/coursera_repo#readme",
   "dependencies": {},
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
